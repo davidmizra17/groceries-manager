@@ -1,0 +1,19 @@
+{
+  "name": "groceries-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmizra17/groceries-manager.git"
+  },
+  "author": "David Mizrahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmizra17/groceries-manager/issues"
+  },
+  "homepage": "https://github.com/davidmizra17/groceries-manager#readme",
+  "description": ""
+}
